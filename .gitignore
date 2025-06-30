@@ -1,0 +1,26 @@
+# Maven build directory
+/target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Others
+*.swp
+
