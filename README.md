@@ -1,2 +1,1 @@
-# leaderboard-api
-backend for leaderboad management application
+# backend of leaderboard system
